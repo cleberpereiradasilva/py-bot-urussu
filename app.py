@@ -1,1 +1,2 @@
-#AQUI VAMOS COLOCAR TODAS AS CHAMADAS DO BOOT
+def __init__():
+    print('Iniciou')
