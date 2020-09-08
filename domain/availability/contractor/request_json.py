@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-class PequestJson(ABC):
+class RequestJson(ABC):
     '''Abstract class to ensure execute method implementation'''
 
     def __str__(self):
